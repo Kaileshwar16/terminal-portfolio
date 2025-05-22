@@ -28,8 +28,8 @@ By Kailesh
         <div>Welcome to my terminal portfolio. (Version 1.3.1)</div>
         <Seperator>----</Seperator>
         <div>
-          This project's source code can be found in this project's{" "}
-          <Link href="https://github.com/satnaing/terminal-portfolio">
+          My Github Repo{" "}
+          <Link href="https://github.com/Kaileshwar16">
             GitHub repo
           </Link>
           .

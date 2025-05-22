@@ -59,7 +59,6 @@ Rediributed By Kailesh
 Clone the project
 
 ```bash
-git clone https://github.com/satnaing/terminal-portfolio.git
 ```
 
 Go to the project directory
