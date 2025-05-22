@@ -13,7 +13,7 @@ import {
 import { termContext } from "../Terminal";
 import Usage from "../Usage";
 
-const Projects: React.FC = () => {
+const Certificate: React.FC = () => {
   const { arg, history, rerender } = useContext(termContext);
 
   /* ===== get current command ===== */
@@ -39,9 +39,9 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        “Talk is cheap. Show me the code”? I got you. <br />
-        Here are some of my projects you shouldn't misss
-      </ProjectsIntro>
+        “Talk is cheap. Show me the Certificate”? I got you. <br />
+        Here are some of my Certificates
+        </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>
           <ProjectTitle>{`${id}. ${title}`}</ProjectTitle>
@@ -72,12 +72,6 @@ const projects = [
     desc: "I learned Python programming from basics to advanced by building real-world projects, covering core concepts like data structures, OOP, web development with Flask, automation, APIs, data science, and even game and app development.",
     url: "",
   },
-  {
-    id: 4,
-    title: "React-Dash",
-    desc: "A modern, responsive Sales Dashboard built using React. This dashboard displays key performance metrics, charts, and tables to help businesses monitor and analyze their sales data in real-time.",
-    url: "https://dashboard-react-swart-chi.vercel.app/",
-   },
 ];
 
 export default Certificate;
