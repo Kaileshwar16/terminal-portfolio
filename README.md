@@ -7,11 +7,7 @@
 
 My perfolio website in terminal version developed with React, TypeScript and Styled-Components. Multiple themes supported and keyboard shortcuts can be used for some functionalities.
 
-source  -->   Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react
 
-## Demo
-
-<a href="https://www.jinno.app/redirect?from=satnaing&redirect=libary&libName=terminal-portfolio&componentName=App&libCreator=satnaing" target="_blank" rel="noopener noreferrer">Demo - try it in your editor</a>
 
 ## Features
 
@@ -32,6 +28,8 @@ source  -->   Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-ter
 **Testing** - [Vitest](https://vitest.dev/), [React Testing Library](https://testing-library.com/)  
 **Deployment** - [Netlify](https://app.netlify.com/)
 
+
+source  -->   Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react
 
 ## Running Locally
 
