@@ -54,7 +54,7 @@ describe("Terminal Component", () => {
       );
     });
 
-    it("should return '/home/satnaing' when user type 'pwd' cmd", async () => {
+    it("should return '/home/kailesh' when user type 'pwd' cmd", async () => {
       await user.type(terminalInput, "pwd{enter}");
       expect(screen.getByTestId("latest-output").firstChild?.textContent).toBe(
         "/home/satnaing"
