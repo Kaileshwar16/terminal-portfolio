@@ -68,9 +68,9 @@ const projects = [
   },
   {
     id: 3,
-    title: "pomo-dj",
-    desc: "A minimal and real-time Pomodoro timer app built with Go using the Gin framework and Gorilla WebSocket. Users can join a shared Pomodoro session and chat live with others—perfect for virtual co-working or focus groups.",
-    url: "https://pomo-dj.onrender.com/",
+    title: "Angela Yu’s Python 100 Days of Code",
+    desc: "I learned Python programming from basics to advanced by building real-world projects, covering core concepts like data structures, OOP, web development with Flask, automation, APIs, data science, and even game and app development.",
+    url: "",
   },
   {
     id: 4,
