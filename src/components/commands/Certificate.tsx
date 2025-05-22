@@ -57,14 +57,14 @@ const projects = [
   {
     id: 1,
     title: "Deep Learning By Andrew Ng",
-    desc: "This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu. The goal of this project is to explore and analyze real-world data from The Washington Post related to police-involved killings in the United States.",
-    url: "https://github.com/Kaileshwar16/crime-analysis.git",
+    desc: "I learned how to build and train deep neural networks from scratch, apply techniques like backpropagation, regularization, and optimization, and use them in real-world tasks like image recognition, natural language processing, and time-series prediction.",
+    url: "",
   },
   {
     id: 2,
-    title: "StudySync",
-    desc: "A fully functional forum web application built with Django, where users can create posts, comment on discussions, and engage with a community.",
-    url: "https://django-forum-0eos.onrender.com/",
+    title: "Machine Learning By Andrew Ng",
+    desc: "I learned the fundamentals of machine learning, including supervised and unsupervised learning algorithms like linear regression, logistic regression, SVMs, neural networks, k-means, and how to apply them effectively using concepts like bias-variance tradeoff, regularization, and evaluation metrics.",
+    url: "",
   },
   {
     id: 3,
