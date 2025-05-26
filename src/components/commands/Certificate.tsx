@@ -64,13 +64,19 @@ const projects = [
     id: 2,
     title: "Machine Learning By Andrew Ng",
     desc: "I learned the fundamentals of machine learning, including supervised and unsupervised learning algorithms like linear regression, logistic regression, SVMs, neural networks, k-means, and how to apply them effectively using concepts like bias-variance tradeoff, regularization, and evaluation metrics.",
-    url: "",
+    url: "https://www.coursera.org/account/accomplishments/specialization/5C1PITSVXRVE",
   },
   {
     id: 3,
     title: "Angela Yu’s Python 100 Days of Code",
     desc: "I learned Python programming from basics to advanced by building real-world projects, covering core concepts like data structures, OOP, web development with Flask, automation, APIs, data science, and even game and app development.",
-    url: "",
+    url: "https://www.udemy.com/certificate/UC-c3652e75-3b72-47f4-a6d6-01401bae8c88/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com",
+  },
+  {
+    id: 4,
+    title: "CS50 Introduction to Computer Science",
+    desc: "Completed Harvard’s CS50x, an intensive, entry-level course in computer science and programming. The course covered core concepts such as algorithms, data structures, memory management, abstraction, and software engineering. Gained hands-on experience in C, Python, HTML/CSS, JavaScript, and SQL.",
+    url: "https://certificates.cs50.io/82f6d7ba-ce15-43a6-8138-373773d2b7fb.pdf?size=letter",
   },
 ];
 
