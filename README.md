@@ -32,9 +32,6 @@ source  -->   Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-ter
 
 Clone the project
 
-```bash
-```
-
 Go to the project directory
 
 ```bash
