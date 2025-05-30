@@ -30,7 +30,7 @@ source  -->   Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-ter
 
 ## Running Locally
 
-Clone the project
+# Clone the project
 
 Go to the project directory
 
